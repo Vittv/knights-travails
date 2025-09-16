@@ -18,8 +18,8 @@ This is solved using **Breadth-First Search (BFS)**, which guarantees the shorte
 ## Features
 
 - `knightMoves(start, end)` function:
-  - Prints the shortest path between two positions.
   - Shows the number of moves required.
+  - Prints the shortest path between two positions.
   - Example output:
   ```javascript
   knightMoves([3,3], [4,3]);
